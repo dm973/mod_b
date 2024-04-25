@@ -1,0 +1,3 @@
+[submodule "mod_a"]
+	path = mod_a
+	url = https://github.com/dm973/mod_a.git
